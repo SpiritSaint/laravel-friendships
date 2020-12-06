@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Laravel\\Breeze\\": "src/"
+      "SpiritSaint\\Friendships\\": "src/"
     }
   },
   "extra": {
